@@ -1,0 +1,4 @@
+python -m venv projekt2
+cd
+.\Scripts\activate
+pip install django
